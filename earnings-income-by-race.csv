@@ -1,0 +1,696 @@
+GEOID,Native Lands,Number; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population,MeanIncomePerCapita,Number; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - White,Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - White,Number; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Black or African American,Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Black or African American,Number; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - American Indian and Alaska Native,Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - American Indian and Alaska Native,Number; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Asian,Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Asian,Number; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Native Hawaiian and Other Pacific Islander,Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Native Hawaiian and Other Pacific Islander,Number; Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Some other race,Mean income (dollars); Estimate; PER CAPITA INCOME BY RACE AND HISPANIC OR LATINO ORIGIN - Total population - One race-- - Some other race,"Mean income (dollars); Estimate; White alone, not Hispanic or Latino",Mean income (dollars); Estimate; Hispanic or Latino origin (of any race)
+0010,"Acoma Pueblo and Off-Reservation Trust Land, NM",2974,13039,24,N,55,N,2869,12898,0,-,0,-,15,N,N,15171
+0020,"Agua Caliente Indian Reservation and Off-Reservation Trust Land, CA",25595,44888,22173,46861,716,28412,174,58957,1012,36789,64,24159,705,22657,51341,22746
+0050,"Alabama-Coushatta Reservation and Off-Reservation Trust Land, TX",613,17995,17,8818,0,-,528,20014,0,-,0,-,0,-,8723,5882
+0080,"Allegany Reservation, NY",6240,16669,3864,18841,228,6669,1583,15140,76,11724,0,-,87,11374,19261,8964
+0095,"Alturas Indian Rancheria, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+0110,"Annette Island Reserve, AK",1684,22927,228,37955,0,-,1212,19266,24,11588,3,N,11,N,39064,23267
+0115,"Aroostook Band of Micmac Trust Land, ME",241,10192,49,9612,1,N,174,9775,3,-,4,N,0,-,10021,N
+0120,"Auburn Rancheria and Off-Reservation Trust Land, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+0125,"Augustine Reservation, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+0140,"Bad River Reservation, WI",1545,17974,382,26507,0,-,1063,15855,18,N,0,-,10,-,27560,10246
+0155,"Barona Reservation and Off-Reservation Trust Land, CA",745,46508,161,23276,0,-,449,60177,4,N,2,N,21,19590,27298,21101
+0165,"Battle Mountain Reservation and Off-Reservation Trust Land, NV",318,15581,68,18291,0,-,241,14841,0,-,0,-,3,N,17103,18823
+0170,"Bay Mills Reservation and Off-Reservation Trust Land, MI",1281,21084,159,48874,25,N,822,17938,18,22028,0,-,1,N,50742,9146
+0185,"Benton Paiute Reservation and Off-Reservation Trust Land, CA",113,18781,0,-,0,-,110,18433,2,N,0,-,1,N,-,N
+0200,"Berry Creek Rancheria and Off-Reservation Trust Land, CA",259,20937,47,10949,7,N,71,25732,11,N,37,N,5,N,10949,19310
+0215,"Big Bend Rancheria, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+0225,"Big Cypress Reservation, FL",658,32516,26,28431,9,N,554,36192,0,-,47,N,8,N,N,9381
+0240,"Big Lagoon Rancheria, CA",2,N,2,N,0,-,0,-,0,-,0,-,0,-,N,-
+0250,"Big Pine Reservation and Off-Reservation Trust Land, CA",497,18485,78,18637,0,-,370,19196,19,4600,11,N,0,-,20352,12404
+0265,"Big Sandy Rancheria and Off-Reservation Trust Land, CA",182,10215,3,38133,4,N,146,10673,0,-,7,-,2,N,N,7509
+0275,"Big Valley Rancheria, CA",212,10946,5,N,0,-,149,8401,28,N,0,-,27,15241,N,10562
+0290,"Bishop Reservation, CA",1657,19316,449,19023,3,N,1115,19609,0,-,17,18600,23,19252,24759,12157
+0305,"Blackfeet Indian Reservation and Off-Reservation Trust Land, MT",10938,14531,2015,25001,34,10656,8593,12066,28,24400,19,N,37,N,25320,7717
+0325,"Blue Lake Rancheria and Off-Reservation Trust Land, CA",82,28529,46,28117,0,-,25,21316,2,N,0,-,0,-,29395,N
+0335,"Bois Forte Reservation and Off-Reservation Trust Land, MN",1087,17546,281,24794,5,N,535,15259,6,N,0,-,0,-,24917,N
+0350,"Bridgeport Reservation and Off-Reservation Trust Land, CA",83,25523,1,N,0,-,78,24800,4,N,0,-,0,-,N,N
+0360,"Brighton Reservation, FL",692,59767,127,33541,12,21275,506,70063,3,N,0,-,5,N,39138,22363
+0400,"Burns Paiute Indian Colony and Off-Reservation Trust Land, OR",127,14244,10,29320,0,-,103,14115,0,-,9,N,0,-,33863,2900
+0415,"Cabazon Reservation, CA",748,13156,293,10600,15,4880,30,25977,0,-,0,-,410,14347,12662,12880
+0435,"Cahuilla Reservation, CA",133,25362,69,32788,0,-,51,11925,8,N,0,-,0,-,16578,29780
+0440,"Campbell Ranch, NV",438,13043,64,9178,27,3100,247,15095,9,N,39,14536,16,8181,8433,10749
+0450,"Campo Indian Reservation, CA",348,15593,61,19469,6,15483,248,15164,0,-,0,-,9,11600,23290,6337
+0495,"Capitan Grande Reservation, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+0510,"Carson Colony, NV",273,16797,17,5259,0,-,250,17671,0,-,0,-,5,N,5259,12967
+0525,"Catawba Reservation, SC",1125,14970,201,16334,23,17339,697,14621,4,N,45,14671,26,N,16751,N
+0540,"Cattaraugus Reservation, NY",2288,17250,153,15908,0,-,1821,14649,111,40278,10,N,28,N,16390,59493
+0555,"Cedarville Rancheria and Off-Reservation Trust Land, CA",25,18272,2,N,0,-,23,18439,0,-,0,-,0,-,N,-
+0560,"Celilo Village, OR",51,4969,6,-,0,-,45,5631,0,-,0,-,0,-,-,-
+0575,"Chehalis Reservation and Off-Reservation Trust Land, WA",1017,22642,477,29349,2,N,498,15922,20,N,0,-,0,-,32712,17651
+0585,"Chemehuevi Reservation, CA",317,17819,97,29637,3,N,163,15872,24,N,0,-,0,-,28817,18684
+0605,"Cheyenne River Reservation and Off-Reservation Trust Land, SD",8527,15924,1815,33401,8,50088,6554,10959,33,5918,0,-,4,N,33394,6527
+0620,"Chicken Ranch Rancheria and Off-Reservation Trust Land, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+0635,"Chitimacha Reservation, LA",590,22488,150,32293,5,26280,237,21897,16,72313,3,N,2,N,32293,-
+0680,"Pueblo de Cochiti, NM",1824,19876,855,25123,30,31480,831,14410,5,N,0,-,70,14690,32945,17584
+0690,"Coconut Creek Trust Land, FL",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+0695,"Cocopah Reservation, AZ",1341,17119,522,29425,11,N,714,9428,0,-,55,N,9,6744,31597,12175
+0705,"Coeur d'Alene Reservation, ID",7391,24954,5674,27865,23,N,1399,13464,25,141352,23,10322,29,29138,28220,13098
+0720,"Cold Springs Rancheria, CA",166,12673,4,N,0,-,133,15020,0,-,0,-,0,-,-,17229
+0735,"Colorado River Indian Reservation, AZ--CA",9652,18655,5358,19771,185,30499,2597,13603,49,26916,39,N,872,25274,24174,16420
+0750,"Colusa Rancheria, CA",78,20979,7,N,0,-,35,23617,35,N,0,-,0,-,N,N
+0760,"Colville Reservation and Off-Reservation Trust Land, WA",7738,18740,2740,22665,23,14165,3996,17308,100,16648,81,8688,204,10251,23771,9240
+0770,"Coos, Lower Umpqua, and Siuslaw Reservation and Off-Reservation Trust Land, OR",95,10274,28,11068,0,-,55,8678,0,-,0,-,0,-,11068,-
+0775,"Coquille Reservation, OR",480,23336,191,37218,0,-,178,14585,4,N,24,N,0,-,39402,N
+0780,"Cortina Indian Rancheria, CA",35,19429,8,28063,0,-,27,16870,0,-,0,-,0,-,36533,N
+0795,"Coushatta Reservation and Off-Reservation Trust Land, LA",98,16283,16,15231,17,29747,41,18529,2,N,0,-,0,-,17300,N
+0815,"Cow Creek Reservation and Off-Reservation Trust Land, OR",168,12070,96,13910,0,-,59,9480,0,-,0,-,0,-,14206,N
+0820,"Cowlitz Reservation, WA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+0825,"Coyote Valley Reservation, CA",270,10519,8,N,0,-,216,8266,0,-,0,-,10,N,N,16339
+0845,"Crow Reservation and Off-Reservation Trust Land, MT",7096,16258,1305,27545,15,N,5594,13285,10,N,3,N,3,N,29704,10524
+0855,"Crow Creek Reservation, SD",2151,10975,112,33105,8,N,1943,10011,0,-,40,N,3,N,32672,8180
+0940,"Dresslerville Colony, NV",472,12409,15,25133,0,-,425,11941,9,N,0,-,4,N,22864,7389
+0955,"Dry Creek Rancheria and Off-Reservation Trust Land, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+0965,"Duck Valley Reservation, NV--ID",1353,18317,113,30133,3,-,1172,17328,12,N,5,N,4,N,31377,12929
+0975,"Duckwater Reservation, NV",409,19397,35,19711,0,-,354,19164,5,N,10,N,2,N,24605,14689
+0990,"Eastern Cherokee Reservation, NC",9534,17924,1618,17019,77,34539,6990,18662,200,16997,0,-,104,7461,17019,7417
+1005,"Elko Colony, NV",1006,22112,61,49072,0,-,864,21122,16,N,0,-,8,N,56151,19927
+1010,"Elk Valley Rancheria and Off-Reservation Trust Land, CA",101,23798,53,26811,0,-,40,18043,0,-,0,-,0,-,26811,-
+1040,"Ely Reservation, NV",235,28688,65,17760,0,-,137,35402,6,N,5,N,10,N,16987,26155
+1055,"Enterprise Rancheria and Off-Reservation Trust Land, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+1065,"Ewiiaapaayp Reservation, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+1070,"Fallon Paiute-Shoshone Colony and Off-Reservation Trust Land, NV",82,12452,1,N,0,-,73,12673,0,-,0,-,0,-,N,N
+1075,"Fallon Paiute-Shoshone Reservation and Off-Reservation Trust Land, NV",767,14916,72,19392,4,N,631,14631,3,N,0,-,3,N,19914,10695
+1100,"Flandreau Reservation, SD",442,22707,31,20632,4,N,328,22638,0,-,0,-,4,N,27135,21960
+1110,"Flathead Reservation, MT",29218,22977,18851,27078,77,16068,7948,16667,105,13395,40,14433,137,6824,27618,11348
+1125,"Fond du Lac Reservation and Off-Reservation Trust Land, MN--WI",4011,26587,2206,32995,26,18015,1523,19269,62,14300,0,-,10,N,33329,18845
+1135,"Forest County Potawatomi Community and Off-Reservation Trust Land, WI",720,25637,101,11461,14,23100,574,29286,1,N,0,-,8,N,16133,8879
+1140,"Fort Apache Reservation, AZ",15313,9305,348,31041,63,55283,14109,8460,108,6923,35,N,73,42456,37015,15881
+1150,"Fort Belknap Reservation and Off-Reservation Trust Land, MT",3182,11683,150,14165,6,N,2932,11303,0,-,10,N,12,N,14165,4663
+1160,"Fort Berthold Reservation, ND",7304,27235,2198,45633,22,45327,4713,19549,13,25500,0,-,77,18731,48208,19953
+1170,"Fort Bidwell Reservation and Off-Reservation Trust Land, CA",162,10035,3,13267,2,N,122,11111,35,N,0,-,0,-,13267,N
+1185,"Fort Hall Reservation and Off-Reservation Trust Land, ID",5955,17148,1751,25666,10,N,3824,13265,61,40851,0,-,95,17531,27533,8146
+1195,"Fort Independence Reservation, CA",90,25194,45,18762,0,-,41,30363,0,-,0,-,0,-,18762,-
+1210,"Fort McDermitt Indian Reservation, NV--OR",465,10172,16,43888,0,-,444,8605,5,N,0,-,0,-,50157,-
+1220,"Fort McDowell Yavapai Nation Reservation, AZ",1141,15276,107,15135,9,33767,877,15007,32,25353,0,-,12,N,14669,12259
+1235,"Fort Mojave Reservation and Off-Reservation Trust Land, AZ--CA--NV",1707,19360,788,27612,7,N,780,12553,12,15750,0,-,36,15211,29948,12628
+1250,"Fort Peck Indian Reservation and Off-Reservation Trust Land, MT",10374,15799,3102,27889,24,N,6543,10252,56,24768,0,-,13,15254,28149,9244
+1260,"Fort Pierce Reservation, FL",110,19379,5,N,8,N,89,18412,0,-,0,-,0,-,N,N
+1270,"Fort Sill Apache Indian Reservation, NM",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+1280,"Fort Yuma Indian Reservation, CA--AZ",1442,13178,327,12610,28,12989,812,14280,42,20879,0,-,97,8319,19579,8023
+1310,"Gila River Indian Reservation, AZ",12196,10305,859,13376,71,8603,9986,10376,159,31545,116,15900,64,12006,15770,7625
+1340,"Goshute Reservation, NV--UT",134,13827,5,20060,0,-,111,15509,0,-,13,N,0,-,20060,-
+1355,"Grand Portage Reservation and Off-Reservation Trust Land, MN",718,22968,179,24477,2,N,412,23522,42,29193,0,-,0,-,24293,N
+1365,"Grand Ronde Community and Off-Reservation Trust Land, OR",494,18335,97,22324,1,N,324,16852,0,-,1,-,2,N,22412,10256
+1370,"Grand Traverse Reservation and Off-Reservation Trust Land, MI",759,15283,128,15962,10,N,491,16819,11,19864,5,-,9,18667,14638,9660
+1380,"Greenville Rancheria, CA",34,27838,12,31100,0,-,22,26059,0,-,0,-,0,-,31100,-
+1395,"Grindstone Indian Rancheria, CA",244,9891,27,5767,2,-,205,10534,0,-,0,-,0,-,5141,5810
+1400,"Guidiville Rancheria and Off-Reservation Trust Land, CA",65,6351,4,N,0,-,49,6337,0,-,1,N,0,-,N,N
+1410,"Hannahville Indian Community and Off-Reservation Trust Land, MI",679,11584,44,16539,0,-,480,12186,36,9933,0,-,3,N,17115,5651
+1440,"Havasupai Reservation, AZ",13,N,0,-,0,-,13,N,0,-,0,-,0,-,-,-
+1450,"Ho-Chunk Nation Reservation and Off-Reservation Trust Land, WI--MN",1639,17581,195,14720,44,5300,1201,19326,16,16538,0,-,43,10953,14247,10486
+1460,"Hoh Indian Reservation and Off-Reservation Trust Land, WA",114,9972,9,N,0,-,95,11253,3,-,0,-,1,N,N,N
+1475,"Hollywood Reservation, FL",940,27217,352,28532,22,20786,374,32593,29,18076,4,N,3,N,31355,20855
+1490,"Hoopa Valley Reservation, CA",3393,18568,342,19261,33,N,2568,14266,47,N,233,65202,2,N,20176,8553
+1505,"Hopi Reservation and Off-Reservation Trust Land, AZ",9268,13225,223,39447,27,N,8797,12712,98,13748,23,N,0,-,43441,13970
+1515,"Hopland Rancheria, CA",339,14771,32,27878,0,-,276,13459,23,15913,0,-,0,-,27878,18347
+1530,"Houlton Maliseet Reservation and Off-Reservation Trust Land, ME",324,10379,48,13621,6,N,218,9696,13,N,0,-,2,N,13621,N
+1545,"Hualapai Indian Reservation and Off-Reservation Trust Land, AZ",1441,13626,112,17174,4,N,1317,13317,2,N,0,-,6,N,15720,18176
+1550,"Huron Potawatomi Reservation and Off-Reservation Trust Land, MI",76,13818,16,11588,3,N,37,16957,6,N,0,-,0,-,12145,N
+1555,"Immokalee Reservation, FL",383,21359,27,17096,2,-,323,22095,0,-,0,-,0,-,-,14913
+1560,"Inaja and Cosmit Reservation, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+1575,"Indian Township Reservation, ME",769,13298,80,18903,3,-,542,14198,15,N,0,-,0,-,19228,N
+1590,"Iowa (KS-NE) Reservation and Off-Reservation Trust Land, KS--NE",162,21850,64,23497,0,-,77,21604,8,N,0,-,0,-,23497,-
+1610,"Isabella Reservation and Off-Reservation Trust Land, MI",27225,27385,23466,27466,425,19370,1697,29570,230,76410,0,-,107,31122,27808,19032
+1625,"Isleta Pueblo, NM",3730,17777,170,25137,0,-,3175,17946,58,29607,0,-,155,9494,16414,13631
+1640,"Jackson Rancheria, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+1655,"Jamestown S'Klallam Reservation and Off-Reservation Trust Land, WA",27,32233,15,34053,0,-,4,N,8,N,0,-,0,-,N,N
+1670,"Jamul Indian Village, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+1685,"Jemez Pueblo, NM",2039,12686,10,20770,8,-,1944,13151,0,-,0,-,1,-,23943,6938
+1690,"Jena Band of Choctaw Reservation, LA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+1700,"Jicarilla Apache Nation Reservation and Off-Reservation Trust Land, NM",3217,14500,317,15653,48,25248,2700,14296,0,-,0,-,53,21892,33445,13072
+1720,"Kaibab Indian Reservation, AZ",280,13761,46,8302,0,-,224,14560,0,-,0,-,0,-,7998,15100
+1735,"Kalispel Reservation and Off-Reservation Trust Land, WA",215,24787,22,10486,2,-,182,27300,0,-,0,-,0,-,13571,-
+1750,"Karuk Reservation and Off-Reservation Trust Land, CA",550,12531,68,21949,9,29911,323,11902,3,N,3,N,31,N,22639,12281
+1770,"Kickapoo (KS) Reservation, KS",4123,23438,3336,25354,56,17618,550,16202,49,20178,10,N,23,6100,25470,12226
+1775,"Kickapoo (TX) Reservation, TX",416,10500,2,N,0,-,351,11392,0,-,0,-,24,N,-,11338
+1785,"Klamath Reservation, OR",36,8775,11,10300,0,-,25,8100,0,-,0,-,0,-,10300,-
+1800,"Kootenai Reservation and Off-Reservation Trust Land, ID",72,21886,7,8814,0,-,57,21225,0,-,0,-,0,-,8814,N
+1815,"Lac Courte Oreilles Reservation and Off-Reservation Trust Land, WI",2903,16888,547,36521,18,N,2184,12393,50,5334,0,-,20,-,36631,10024
+1825,"Lac du Flambeau Reservation, WI",3406,24786,1433,40278,8,N,1761,12501,86,37267,10,N,6,N,40391,8482
+1830,"Lac Vieux Desert Reservation, MI",227,8673,5,6040,0,-,194,8036,0,-,4,N,0,-,6040,-
+1840,"Laguna Pueblo and Off-Reservation Trust Land, NM",3884,15039,73,44151,0,-,3684,14708,21,N,0,-,19,N,63403,23229
+1850,"La Jolla Reservation, CA",556,17910,47,23355,7,31043,352,20445,23,7857,0,-,30,17707,23023,12696
+1860,"Lake Traverse Reservation and Off-Reservation Trust Land, SD--ND",10967,25066,5972,35488,48,74877,4363,11763,4,N,0,-,204,23007,34909,26262
+1880,"L'Anse Reservation and Off-Reservation Trust Land, MI",3062,23623,2228,26366,47,15749,377,23879,37,16500,3,N,13,N,26477,9626
+1895,"La Posta Indian Reservation, CA",54,23065,25,46052,0,-,26,N,3,-,0,-,0,-,46052,-
+1915,"Las Vegas Indian Colony, NV",128,14088,4,N,0,-,124,13508,0,-,0,-,0,-,N,N
+1925,"Laytonville Rancheria, CA",307,12237,23,16917,3,N,208,12782,9,N,5,N,3,-,16831,N
+1940,"Leech Lake Reservation and Off-Reservation Trust Land, MN",11456,22036,5763,30387,80,6178,4746,13607,114,18480,26,N,24,40783,30511,12611
+1955,"Likely Rancheria, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+1960,"Little River Reservation and Off-Reservation Trust Land, MI",122,13540,21,6195,0,-,83,13570,2,N,0,-,3,N,6195,N
+1963,"Little Traverse Bay Reservation and Off-Reservation Trust Land, MI",59,17573,19,14368,0,-,26,20915,0,-,1,N,1,N,14368,N
+1970,"Lone Pine Reservation, CA",177,18094,32,17203,0,-,144,18254,0,-,0,-,0,-,16946,14960
+1980,"Lookout Rancheria, CA",17,16088,3,27800,0,-,14,13579,0,-,0,-,0,-,27800,-
+1995,"Los Coyotes Reservation, CA",134,16274,8,38100,0,-,88,14609,0,-,0,-,20,18935,38100,17959
+2015,"Lovelock Indian Colony, NV",54,9344,8,8313,0,-,44,9559,0,-,0,-,0,-,8313,N
+2030,"Lower Brule Reservation and Off-Reservation Trust Land, SD",1594,11528,95,28686,2,N,1477,10422,3,N,3,N,0,-,28686,6619
+2040,"Lower Elwha Reservation and Off-Reservation Trust Land, WA",725,13662,74,17657,0,-,550,14043,4,N,8,8300,6,N,19098,7447
+2055,"Lower Sioux Indian Community, MN",462,19225,44,20236,9,N,353,19511,8,24100,0,-,8,N,20236,5693
+2070,"Lummi Reservation, WA",5331,22835,2066,36148,37,23543,2727,14367,72,14729,77,23848,65,33771,36619,14366
+2075,"Lytton Rancheria, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+2085,"Makah Indian Reservation, WA",1559,17034,137,27678,0,-,1280,15840,0,-,4,N,0,-,28740,11530
+2100,"Manchester-Point Arena Rancheria, CA",458,13871,28,27218,0,-,295,14628,13,10854,0,-,7,17229,31640,8646
+2115,"Manzanita Reservation and Off-Reservation Trust Land, CA",70,18277,8,N,0,-,53,21879,0,-,0,-,0,-,-,N
+2130,"Maricopa (Ak Chin) Indian Reservation and Off-Reservation Trust Land, AZ",1281,11611,73,26145,3,N,1106,11281,0,-,0,-,7,N,33139,12688
+2145,"Mashantucket Pequot Reservation and Off-Reservation Trust Land, CT",235,35456,25,17788,4,N,177,40908,2,N,0,-,7,N,17788,N
+2147,"Mashpee Wampanoag Trust Land, MA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+2150,"Match-e-be-nash-she-wish Band of Pottawatomi Reservation and Off-Reservation Trust Land, MI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+2175,"Menominee Reservation and Off-Reservation Trust Land, WI",3559,13918,118,29213,22,14209,3353,13358,0,-,0,-,0,-,25843,10401
+2190,"Mesa Grande Reservation, CA",113,15349,7,N,0,-,58,12755,27,19378,0,-,3,N,N,10439
+2205,"Mescalero Reservation, NM",3704,12199,191,20651,3,-,3444,11498,5,N,0,-,3,N,22070,16065
+2240,"Miccosukee Reservation and Off-Reservation Trust Land, FL",7,N,7,N,0,-,0,-,0,-,0,-,0,-,-,N
+2255,"Middletown Rancheria, CA",3,N,0,-,0,-,3,N,0,-,0,-,0,-,-,-
+2270,"Mille Lacs Reservation and Off-Reservation Trust Land, MN",4459,21595,2841,25342,73,5056,1270,14053,34,42109,0,-,18,137711,25802,9313
+2285,"Minnesota Chippewa Trust Land, MN",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+2300,"Mississippi Choctaw Reservation and Off-Reservation Trust Land, MS",7823,11751,132,45259,219,6650,7123,11514,47,22385,0,-,17,N,45259,2594
+2315,"Moapa River Indian Reservation, NV",256,12872,15,18040,0,-,225,12298,0,-,2,-,9,N,16950,11968
+2320,"Mohegan Reservation and Off-Reservation Trust Land, CT",318,30618,70,40711,0,-,37,52962,0,-,0,-,17,-,40711,-
+2330,"Montgomery Creek Rancheria, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+2340,"Mooretown Rancheria and Off-Reservation Trust Land, CA",161,17551,45,17164,0,-,76,19097,2,N,0,-,8,15563,9197,15646
+2360,"Morongo Reservation and Off-Reservation Trust Land, CA",691,41000,192,17877,4,-,385,54256,37,37551,0,-,28,21861,20153,23077
+2375,"Muckleshoot Reservation and Off-Reservation Trust Land, WA",3956,22768,2128,27122,147,15750,968,17748,175,23454,72,14815,222,20010,29172,13746
+2400,"Nambe Pueblo and Off-Reservation Trust Land, NM",1637,29333,933,36682,0,-,461,15207,8,N,8,N,165,26841,47500,27664
+2415,"Narragansett Reservation, RI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+2430,"Navajo Nation Reservation and Off-Reservation Trust Land, AZ--NM--UT",175005,11856,3734,31984,491,16149,166762,11332,891,22343,253,14299,423,27476,35360,10847
+2445,"Nez Perce Reservation, ID",18790,21338,15081,23000,48,22738,2670,13735,111,26817,25,3304,172,18461,23305,12877
+2460,"Nisqually Reservation, WA",690,22773,157,30355,19,47463,412,20717,14,24186,50,12066,6,N,30716,14242
+2475,"Nooksack Reservation and Off-Reservation Trust Land, WA",1132,17508,148,37803,4,N,753,15438,32,6863,6,23950,11,16318,36207,21903
+2490,"Northern Cheyenne Indian Reservation and Off-Reservation Trust Land, MT--SD",4951,13182,313,21890,8,N,4558,11757,1,-,0,-,25,N,25492,19328
+2495,"North Fork Rancheria and Off-Reservation Trust Land, CA",135,11606,8,7225,0,-,120,12352,1,N,0,-,4,N,9283,1300
+2505,"Northwestern Shoshone Reservation, UT",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+2510,"Ohkay Owingeh, NM",6690,17227,3212,20099,39,18438,1684,12117,47,13187,2,N,1441,17140,17547,19058
+2535,"Oil Springs Reservation, NY",2,N,1,N,0,-,0,-,0,-,0,-,0,-,N,-
+2550,"Omaha Reservation, NE--IA",4814,20786,2566,30755,10,N,2135,9212,16,18206,0,-,26,N,33124,8761
+2555,"Oneida Nation Reservation, NY",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+2560,"Oneida (WI) Reservation and Off-Reservation Trust Land, WI",24460,34593,18161,40153,181,19822,4217,17942,550,33377,0,-,180,20438,40625,12672
+2570,"Onondaga Nation Reservation, NY",141,38301,40,N,0,-,0,-,101,N,0,-,0,-,-,N
+2580,"Ontonagon Reservation, MI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+2595,"Osage Reservation, OK",47350,24195,30845,26744,5358,19783,6504,20982,196,24086,33,30939,499,16901,26985,14711
+2625,"Paiute (UT) Reservation, UT",420,11959,33,50694,6,N,360,8999,11,-,3,N,0,-,53674,N
+2635,"Pala Reservation, CA",1090,35478,201,17967,35,18209,443,58329,54,N,10,N,125,14530,20966,20676
+2680,"Pascua Pueblo Yaqui Reservation and Off-Reservation Trust Land, AZ",3888,9994,200,11123,11,16018,3114,10149,0,-,0,-,205,10213,17460,9834
+2685,"Paskenta Rancheria, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+2695,"Passamaquoddy Trust Land, ME",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+2715,"Pauma and Yuima Reservation, CA",220,27635,8,12725,0,-,163,30215,0,-,0,-,12,12958,12725,12886
+2745,"Pechanga Reservation, CA",309,26771,43,31351,0,-,145,23991,42,18057,8,N,13,7085,31351,6711
+2760,"Penobscot Reservation and Off-Reservation Trust Land, ME",807,16865,100,22930,0,-,579,16014,7,N,13,N,3,N,23885,8604
+2775,"Picayune Rancheria and Off-Reservation Trust Land, CA",89,16457,6,N,0,-,68,16091,0,-,0,-,0,-,N,37778
+2785,"Picuris Pueblo, NM",2164,17346,1421,17947,0,-,299,14762,9,-,5,N,395,16275,19980,17407
+2810,"Pine Ridge Reservation, SD--NE",19779,10509,2224,24745,29,97383,16501,8582,25,9124,0,-,36,N,24910,8954
+2820,"Pinoleville Rancheria, CA",223,14320,53,16894,6,-,116,17459,0,-,0,-,8,N,18445,10555
+2835,"Pit River Trust Land, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+2850,"Pleasant Point Reservation, ME",743,15857,94,18700,0,-,562,16533,0,-,0,-,5,N,18700,N
+2865,"Poarch Creek Reservation and Off-Reservation Trust Land, AL--FL",389,9948,48,11590,2,N,295,10111,0,-,0,-,7,-,11590,N
+2890,"Pokagon Reservation and Off-Reservation Trust Land, MI",130,18288,91,15337,2,N,31,29261,0,-,0,-,0,-,16201,N
+2900,"Ponca (NE) Trust Land, NE--IA",3,N,0,-,0,-,3,N,0,-,0,-,0,-,-,-
+2910,"Port Gamble Reservation and Off-Reservation Trust Land, WA",593,15822,75,21195,0,-,444,16357,1,N,0,-,8,23988,20993,10796
+2925,"Port Madison Reservation, WA",7628,34357,6153,36984,30,24290,507,23765,160,35371,25,38524,152,20406,37421,22283
+2980,"Prairie Band of Potawatomi Nation Reservation, KS",1728,22009,711,28547,34,17862,768,16419,0,-,28,42454,6,N,28877,8282
+2985,"Prairie Island Indian Community and Off-Reservation Trust Land, MN",186,36762,73,16430,0,-,103,48322,2,-,0,-,0,-,16066,55000
+2990,"Pueblo of Pojoaque and Off-Reservation Trust Land, NM",3495,27725,2349,30913,19,33111,471,18903,15,32907,4,N,509,22049,44997,23433
+3000,"Puyallup Reservation and Off-Reservation Trust Land, WA",50786,31588,32801,36235,3946,29331,1013,19951,5826,28418,994,23971,2225,14832,38528,17092
+3010,"Pyramid Lake Paiute Reservation, NV",1473,17967,375,21353,16,93744,915,14803,15,33907,47,28955,18,38578,22489,16702
+3020,"Quartz Valley Reservation and Off-Reservation Trust Land, CA",217,16273,69,34032,4,N,69,11814,0,-,20,N,0,-,32883,11017
+3030,"Quileute Reservation, WA",416,18802,30,21210,0,-,344,19577,0,-,5,46100,0,-,19138,26660
+3040,"Quinault Reservation, WA",1172,15104,163,22254,1,N,937,13674,0,-,19,26042,3,N,22903,12485
+3070,"Ramona Village, CA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+3085,"Red Cliff Reservation and Off-Reservation Trust Land, WI",1271,16557,128,22165,14,N,1025,16103,43,13144,0,-,2,N,20993,12988
+3095,"Redding Rancheria, CA",20,37205,2,N,0,-,18,39322,0,-,0,-,0,-,N,-
+3100,"Red Lake Reservation, MN",5873,11152,213,18247,33,N,5519,10751,20,N,0,-,0,-,17636,5757
+3115,"Redwood Valley Rancheria, CA",317,29615,150,45292,5,N,98,23549,3,N,0,-,5,-,38600,39848
+3130,"Reno-Sparks Indian Colony, NV",1108,11907,34,21282,9,N,1003,11210,0,-,19,27474,4,-,14368,14141
+3145,"Resighini Rancheria, CA",13,19669,0,-,0,-,12,21308,0,-,0,-,0,-,-,-
+3165,"Rincon Reservation and Off-Reservation Trust Land, CA",981,24779,409,15154,0,-,437,33980,53,30555,2,N,55,13964,20578,16879
+3185,"Roaring Creek Rancheria, CA",22,13364,7,28243,0,-,15,N,0,-,0,-,0,-,-,28243
+3195,"Robinson Rancheria and Off-Reservation Trust Land, CA",284,14234,0,-,0,-,221,16606,0,-,0,-,54,6467,-,6021
+3205,"Rocky Boy's Reservation and Off-Reservation Trust Land, MT",3794,11086,41,44905,30,23733,3607,10547,0,-,0,-,34,-,44905,2090
+3220,"Rohnerville Rancheria, CA",20,22360,14,24707,0,-,6,16900,0,-,0,-,0,-,24707,-
+3235,"Rosebud Indian Reservation and Off-Reservation Trust Land, SD",11354,11124,943,29824,32,42338,9072,8867,131,N,0,-,16,N,28064,10850
+3250,"Round Valley Reservation and Off-Reservation Trust Land, CA",391,16375,89,19385,1,N,259,15532,2,N,4,N,0,-,27456,6221
+3265,"Rumsey Indian Rancheria, CA",1,N,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+3280,"Sac and Fox/Meskwaki Settlement and Off-Reservation Trust Land, IA",1282,14006,96,10689,14,N,1080,14203,20,16130,0,-,5,N,16832,5609
+3285,"Sac and Fox Nation Reservation and Off-Reservation Trust Land, NE--KS",130,35955,82,52655,0,-,29,8283,0,-,0,-,9,N,53971,N
+3305,"St. Croix Reservation and Off-Reservation Trust Land, WI",616,16697,33,25988,12,51283,496,16356,0,-,4,N,19,N,25988,6630
+3320,"St. Regis Mohawk Reservation, NY",3292,25297,175,N,2,-,2674,16943,36,N,68,N,152,N,N,N
+3340,"Salt River Reservation, AZ",7087,18349,1764,27084,23,N,4627,15157,43,N,42,N,175,7151,28437,14154
+3355,"San Carlos Reservation, AZ",10611,10469,200,15527,0,-,9576,10256,136,19981,0,-,0,-,23760,6625
+3370,"Sandia Pueblo, NM",5228,18131,2565,20507,35,19509,738,17112,3,-,4,N,1782,15055,29180,16512
+3400,"San Felipe Pueblo, NM",4056,16059,691,33222,0,-,3231,12144,0,-,0,-,131,22179,43346,25458
+3415,"San Ildefonso Pueblo and Off-Reservation Trust Land, NM",1925,26264,973,34126,9,41778,720,16503,0,-,1,N,176,23565,46423,27086
+3445,"San Manuel Reservation and Off-Reservation Trust Land, CA",138,69680,9,14411,0,-,114,83116,0,-,0,-,15,N,N,1659
+3460,"San Pasqual Reservation, CA",874,20597,273,16132,10,37190,358,27022,65,8171,3,N,69,14958,19359,14935
+3480,"Santa Ana Pueblo, NM",699,15550,10,17380,0,-,672,15333,1,N,8,N,5,N,-,14381
+3495,"Santa Clara Pueblo and Off-Reservation Trust Land, NM",11861,22193,6937,24627,147,18222,1295,14956,96,47302,0,-,2934,19792,33420,20552
+3520,"Santa Rosa Rancheria, CA",811,17420,81,10098,10,N,546,21932,10,N,0,-,92,10157,15055,12212
+3525,"Santa Rosa Reservation, CA",74,11500,5,N,8,N,58,11834,0,-,0,-,1,-,N,9229
+3540,"Santa Ynez Reservation, CA",250,26506,40,34005,2,-,147,26901,8,N,0,-,4,N,39193,18900
+3550,"Santa Ysabel Reservation, CA",266,14195,20,22500,0,-,230,13017,10,N,0,-,0,-,22417,14525
+3565,"Santee Reservation, NE",1041,16761,211,35866,1,N,721,12234,23,N,0,-,50,9530,36655,6057
+3585,"Santo Domingo Pueblo, NM",3343,11012,75,25441,13,N,2986,10696,0,-,0,-,43,12144,32076,10862
+3625,"Sauk-Suiattle Reservation, WA",67,21887,9,23111,0,-,51,21331,0,-,0,-,0,-,23111,-
+3635,"Sault Ste. Marie Reservation and Off-Reservation Trust Land, MI",2143,10163,751,11817,48,N,1004,10211,19,16626,0,-,0,-,11486,14370
+3665,"Seminole (FL) Trust Land, FL",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+3680,"Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land, MN",695,99648,221,23630,3,N,324,140419,11,N,0,-,0,-,24382,47058
+3735,"Sherwood Valley Rancheria and Off-Reservation Trust Land, CA",164,12301,21,7962,0,-,116,13016,0,-,0,-,6,N,8800,7581
+3750,"Shingle Springs Rancheria and Off-Reservation Trust Land, CA",124,21763,24,15117,3,-,90,22376,0,-,0,-,0,-,24863,14142
+3780,"Shoalwater Bay Indian Reservation and Off-Reservation Trust Land, WA",90,16440,22,17568,0,-,53,17787,0,-,0,-,0,-,17568,-
+3795,"Siletz Reservation and Off-Reservation Trust Land, OR",667,13211,85,21791,9,-,396,13591,0,-,0,-,10,25630,22359,9305
+3825,"Skokomish Reservation, WA",857,15219,209,26605,3,N,545,12255,8,8825,16,N,2,N,26876,13213
+3840,"Skull Valley Reservation, UT",40,15970,19,10232,0,-,21,21162,0,-,0,-,0,-,13140,N
+3855,"Smith River Rancheria and Off-Reservation Trust Land, CA",144,18281,24,29304,0,-,91,15060,0,-,0,-,5,N,29304,N
+3860,"Snoqualmie Reservation, WA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+3870,"Soboba Reservation and Off-Reservation Trust Land, CA",891,27992,451,23672,5,N,260,33845,17,N,0,-,46,15793,22832,25647
+3885,"Sokaogon Chippewa Community and Off-Reservation Trust Land, WI",546,12100,77,13345,0,-,441,12252,0,-,0,-,0,-,14077,N
+3925,"Southern Ute Reservation, CO",12995,31278,10590,33109,96,6776,1397,25385,141,25713,22,N,460,20538,34740,22086
+3930,"South Fork Reservation and Off-Reservation Trust Land, NV",72,30113,7,49729,5,N,58,26491,0,-,2,N,0,-,54567,N
+3935,"Spirit Lake Reservation, ND",4403,14076,584,40008,0,-,3728,9884,5,N,3,36300,2,N,40092,11978
+3940,"Spokane Reservation and Off-Reservation Trust Land, WA",2145,15953,357,22502,9,N,1533,14794,3,N,15,N,4,N,23766,9428
+3955,"Squaxin Island Reservation and Off-Reservation Trust Land, WA",573,13710,128,18603,0,-,240,13424,0,-,9,N,20,18260,18849,10985
+3970,"Standing Rock Reservation, SD--ND",8616,15643,1807,31796,21,15600,6538,11343,11,14455,2,N,33,19600,31791,9498
+3980,"Stewart Community, NV",119,16056,10,28230,0,-,99,14575,0,-,0,-,1,N,28230,24129
+3985,"Stewarts Point Rancheria and Off-Reservation Trust Land, CA",73,7899,4,N,2,-,67,7267,0,-,0,-,0,-,N,N
+4000,"Stillaguamish Reservation and Off-Reservation Trust Land, WA",11,47245,11,47245,0,-,0,-,0,-,0,-,0,-,47245,-
+4015,"Stockbridge Munsee Community and Off-Reservation Trust Land, WI",756,17115,69,16080,6,N,627,17514,0,-,0,-,0,-,16080,-
+4030,"Sulphur Bank Rancheria, CA",76,3664,4,N,0,-,72,2831,0,-,0,-,0,-,N,-
+4045,"Summit Lake Reservation and Off-Reservation Trust Land, NV",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+4060,"Susanville Indian Rancheria and Off-Reservation Trust Land, CA",569,18326,215,22864,14,31450,314,15504,1,N,4,-,1,N,24344,11054
+4075,"Swinomish Reservation and Off-Reservation Trust Land, WA",2917,36399,2230,42029,6,52767,532,16216,16,46531,18,15511,14,16121,42849,20674
+4090,"Sycuan Reservation and Off-Reservation Trust Land, CA",206,48882,49,15047,6,N,97,76320,4,-,3,-,12,N,18678,23091
+4095,"Table Bluff Reservation, CA",127,12066,20,12250,0,-,71,12221,20,N,0,-,2,N,13273,4000
+4110,"Table Mountain Rancheria, CA",36,18997,5,N,0,-,31,18171,0,-,0,-,0,-,N,N
+4130,"Tampa Reservation, FL",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+4140,"Taos Pueblo and Off-Reservation Trust Land, NM",5078,23707,2980,29246,29,8000,1558,17196,12,N,0,-,340,13134,36083,20607
+4170,"Tesuque Pueblo and Off-Reservation Trust Land, NM",973,20097,421,27262,0,-,462,15369,0,-,2,N,81,10786,50477,14595
+4180,"Timbi-Sha Shoshone Reservation and Off-Reservation Trust Land, CA--NV",27,19300,1,N,0,-,22,21245,0,-,0,-,0,-,N,-
+4200,"Tohono O'odham Nation Reservation and Off-Reservation Trust Land, AZ",10703,12140,989,19379,27,7681,9197,11297,80,17756,23,23252,93,12543,28833,10313
+4225,"Tonawanda Reservation, NY",464,22488,30,25440,0,-,369,19383,27,N,0,-,22,N,25440,-
+4235,"Tonto Apache Reservation and Off-Reservation Trust Land, AZ",139,17269,12,24750,10,N,94,18761,0,-,0,-,16,N,24750,14144
+4255,"Torres-Martinez Reservation, CA",3015,8826,809,7808,0,-,167,18240,8,14150,0,-,1953,8316,15082,7985
+4275,"Trinidad Rancheria and Off-Reservation Trust Land, CA",186,18984,23,15261,0,-,127,20935,15,9213,0,-,0,-,19947,N
+4290,"Tulalip Reservation and Off-Reservation Trust Land, WA",9974,33506,7177,37079,104,31847,1586,24744,201,38158,28,28354,172,20857,37620,22386
+4300,"Tule River Reservation and Off-Reservation Trust Land, CA",1338,15964,69,17759,0,-,1060,16326,55,10047,18,14183,40,19855,21897,13237
+4315,"Tunica-Biloxi Reservation and Off-Reservation Trust Land, LA",148,22220,41,22729,8,11563,84,16975,0,-,0,-,8,N,25186,37285
+4330,"Tuolumne Rancheria, CA",182,30776,39,24654,0,-,121,35137,0,-,0,-,2,-,26024,16143
+4345,"Turtle Mountain Reservation and Off-Reservation Trust Land, MT--ND--SD",9232,15265,217,27754,6,N,8838,15020,39,N,0,-,18,N,29379,N
+4360,"Tuscarora Nation Reservation, NY",1048,19273,132,22918,0,-,717,19320,123,14691,3,N,27,34893,21636,N
+4375,"Twenty-Nine Palms Reservation and Off-Reservation Trust Land, CA",7,101886,4,15675,0,-,3,216833,0,-,0,-,0,-,15675,-
+4390,"Uintah and Ouray Reservation and Off-Reservation Trust Land, UT",26063,24152,21449,23839,52,13910,3183,30775,160,29211,96,10697,638,13135,24214,14592
+4405,"Umatilla Reservation and Off-Reservation Trust Land, OR",2922,24738,1493,32276,9,N,1029,15316,81,40711,32,14181,4,N,32891,11720
+4430,"Upper Lake Rancheria, CA",124,18293,33,25685,2,-,72,16611,0,-,0,-,17,13218,28253,11235
+4445,"Upper Sioux Community and Off-Reservation Trust Land, MN",182,17448,14,36129,5,-,130,16173,0,-,0,-,0,-,36129,N
+4455,"Upper Skagit Reservation and Off-Reservation Trust Land, WA",304,12050,18,18150,1,N,198,10196,0,-,10,N,3,N,20419,4271
+4470,"Ute Mountain Reservation and Off-Reservation Trust Land, CO--NM--UT",1424,11983,55,14087,16,N,1306,12070,5,N,11,N,0,-,11953,12139
+4500,"Viejas Reservation and Off-Reservation Trust Land, CA",496,32383,48,28910,0,-,335,35899,3,N,0,-,15,18373,31585,40519
+4515,"Walker River Reservation, NV",1129,13062,71,31001,0,-,1013,11315,21,N,0,-,8,13613,34444,9618
+4530,"Wampanoag-Aquinnah Trust Land, MA",211,12260,12,25908,0,-,147,13189,0,-,0,-,2,N,25908,-
+4545,"Warm Springs Reservation and Off-Reservation Trust Land, OR",4588,13142,233,32482,26,N,4152,11979,7,N,70,N,18,42044,33592,9184
+4560,"Washoe Ranches Trust Land, NV--CA",3080,28055,2654,29649,23,12274,51,22039,33,13052,5,N,177,13027,31070,14476
+4580,"Wells Colony, NV",124,17509,34,17609,0,-,79,17782,0,-,0,-,2,N,-,22549
+4595,"White Earth Reservation and Off-Reservation Trust Land, MN",9799,20492,4457,28930,20,N,4457,12561,52,35135,33,18524,41,17505,29022,4966
+4610,"Wind River Reservation and Off-Reservation Trust Land, WY",27088,25428,17714,30775,126,25985,7802,14723,31,30932,2,N,483,20663,31701,14712
+4625,"Winnebago Reservation and Off-Reservation Trust Land, NE--IA",2893,18754,851,37668,6,7100,1900,11006,37,5481,0,-,0,-,39246,4869
+4635,"Winnemucca Indian Colony, NV",30,16160,8,24738,0,-,22,13041,0,-,0,-,0,-,N,16371
+4665,"Woodfords Community, CA",263,9370,47,14643,10,-,152,9265,4,N,8,N,0,-,16822,8594
+4680,"XL Ranch Rancheria, CA",84,12281,3,N,0,-,81,12275,0,-,0,-,0,-,N,-
+4690,"Yakama Nation Reservation and Off-Reservation Trust Land, WA",31145,15499,18751,16853,211,11663,7290,12804,612,20134,49,25239,3075,14085,26885,13205
+4700,"Yankton Reservation, SD",6676,19260,3365,29557,4,N,2935,8642,21,13067,10,N,22,14877,29776,9627
+4708,"Yavapai-Apache Nation Reservation, AZ",902,12749,46,21813,7,41457,782,12548,0,-,1,N,28,6125,8156,9552
+4710,"Yavapai-Prescott Reservation, AZ",376,16135,124,9863,4,N,191,22353,0,-,0,-,14,28900,7857,11088
+4725,"Yerington Colony, NV",252,8508,18,11439,0,-,211,7107,2,N,0,-,15,25913,11439,12106
+4740,"Yomba Reservation, NV",106,20469,19,6205,0,-,85,23456,0,-,0,-,2,N,6205,N
+4755,"Ysleta del Sur Pueblo and Off-Reservation Trust Land, TX",926,14080,195,16392,2,-,630,13376,0,-,0,-,33,21252,49440,15278
+4760,"Yurok Reservation, CA",856,18403,383,22561,0,-,428,14817,0,-,0,-,0,-,22959,N
+4770,"Zia Pueblo and Off-Reservation Trust Land, NM",994,11931,1,N,0,-,986,11962,0,-,0,-,7,N,N,15317
+4785,"Zuni Reservation and Off-Reservation Trust Land, NM--AZ",9505,11322,196,15730,7,N,9069,11167,128,18150,0,-,5,N,20586,7798
+4910,"Kickapoo (KS) Reservation/Sac and Fox Nation Trust Land joint-use area, KS",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+4930,"San Felipe Pueblo/Santa Ana Pueblo joint-use area, NM",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+4940,"San Felipe Pueblo/Santo Domingo Pueblo joint-use area, NM",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5003,"Anahola (Agricultural) Hawaiian Home Land, HI",200,25753,22,29441,2,N,0,-,16,22075,96,30455,0,-,28175,N
+5004,"Anahola (Residential) Hawaiian Home Land, HI",1519,21417,150,26515,0,-,0,-,100,23834,751,21471,1,-,26465,15015
+5008,"East Kapolei Hawaiian Home Land, HI",72,N,0,-,0,-,0,-,0,-,0,-,0,-,-,N
+5009,"Haiku Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5011,"Hanapepe Hawaiian Home Land, HI",40,17298,0,-,0,-,0,-,24,16321,12,N,0,-,-,-
+5018,"Homuula-Upper Piihonua Hawaiian Home Land, HI",7,N,0,-,0,-,0,-,1,N,6,N,0,-,-,-
+5026,"Honokaia Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5029,"Honokowai Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5030,"Honolulu Makai Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5031,"Honomu Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5033,"Hoolehua-Palaau Hawaiian Home Land, HI",1433,18821,42,59043,6,N,9,28144,74,39570,1082,16316,0,-,58566,15510
+5041,"Kahikinui Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5043,"Kakaina-Kumuhau Hawaiian Home Land, HI",223,20875,62,N,0,-,0,-,0,-,0,-,0,-,N,-
+5044,"Kalaeloa Hawaiian Home Land, HI",19,N,6,N,0,-,0,-,1,-,10,-,1,-,N,-
+5046,"Kalamaula Hawaiian Home Land, HI",445,18895,31,26990,3,-,5,-,30,24037,296,17423,7,29343,54917,15782
+5051,"Kalaupapa Hawaiian Home Land, HI",86,46024,18,57639,0,-,0,-,27,37181,29,49855,1,N,57639,N
+5053,"Kalawahine Hawaiian Home Land, HI",414,38882,23,58004,1,N,0,-,32,60938,188,37940,0,-,58004,19296
+5056,"Kamaoa-Puueo Hawaiian Home Land, HI",13,44877,3,N,0,-,0,-,0,-,5,47600,0,-,N,-
+5061,"Kamiloloa-Makakupaia Hawaiian Home Land, HI",84,20231,1,-,0,-,6,N,6,N,33,28494,0,-,-,-
+5066,"Kamoku-Kapulena Hawaiian Home Land, HI",33,24685,2,N,0,-,0,-,0,-,20,20235,1,N,N,18980
+5067,"Kanehili Hawaiian Home Land, HI",1697,22731,19,N,0,-,0,-,108,31121,318,41955,0,-,-,8372
+5069,"Kaohe-Olaa Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5071,"Kapaa Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5076,"Kapaakea Hawaiian Home Land, HI",205,25040,2,N,0,-,0,-,4,N,191,25405,1,N,N,N
+5083,"Kapolei Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5086,"Kaumana Hawaiian Home Land, HI",161,36366,12,24117,0,-,1,-,10,43640,31,27548,0,-,24117,8367
+5088,"Kaupea Hawaiian Home Land, HI",1458,27577,44,37443,2,N,0,-,54,36428,601,28271,2,N,34666,19297
+5091,"Kawaihae Hawaiian Home Land, HI",573,26654,34,36059,0,-,0,-,25,29744,217,28833,1,N,40867,22634
+5098,"Keahuolu Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5101,"Kealakehe Hawaiian Home Land, HI",1015,24969,31,39187,1,N,0,-,58,28617,570,27471,2,N,39685,13935
+5104,"Keanae-Wailua Hawaiian Home Land, HI",20,12530,0,-,0,-,0,-,0,-,20,12530,0,-,-,-
+5106,"Keaukaha Hawaiian Home Land, HI",1738,18857,39,20449,8,28388,0,-,83,22213,593,23995,3,N,20449,11991
+5111,"Kekaha Hawaiian Home Land, HI",576,22081,40,33035,0,-,0,-,52,28946,415,21224,0,-,16114,31075
+5114,"Keokea (Agricultural) Hawaiian Home Land, HI",215,10645,1,N,0,-,0,-,66,N,4,N,0,-,N,19642
+5116,"Keoniki Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5120,"Kewalo Hawaiian Home Land, HI",393,26423,7,38043,0,-,26,43550,9,39056,215,23180,0,-,53260,N
+5123,"Kolaoa Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5133,"Lalamilo Hawaiian Home Land, HI",89,38462,2,N,0,-,0,-,5,29320,60,43060,4,N,N,N
+5134,"Lanai City Hawaiian Home Land, HI",67,45997,10,N,0,-,0,-,2,N,30,41250,0,-,N,N
+5135,"Leialii Hawaiian Home Land, HI",521,25798,39,26000,0,-,0,-,32,48950,145,24539,0,-,29930,13215
+5136,"Lualualei Hawaiian Home Land, HI",29,16000,6,28200,0,-,0,-,0,-,19,15516,0,-,N,N
+5138,"Maili Hawaiian Home Land, HI",531,4956,45,N,13,-,0,-,13,-,291,5646,0,-,-,1829
+5139,"Makaha Valley Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5146,"Makuu Hawaiian Home Land, HI",75,21064,6,28117,0,-,3,-,9,N,34,20018,0,-,28117,-
+5148,"Maluohai Hawaiian Home Land, HI",1278,21760,19,44405,6,N,0,-,107,29367,499,23379,2,N,45482,12838
+5156,"Moloaa Hawaiian Home Land, HI",7,N,7,N,0,-,0,-,0,-,0,-,0,-,N,-
+5161,"Nanakuli Hawaiian Home Land, HI",5107,20305,127,34372,6,N,3,N,153,22642,2564,21705,20,56335,38201,11251
+5166,"Nienie Hawaiian Home Land, HI",40,N,10,N,0,-,0,-,0,-,0,-,0,-,N,-
+5176,"Panaewa (Agricultural) Hawaiian Home Land, HI",677,21896,39,21962,0,-,6,N,20,22405,218,24442,0,-,24269,25064
+5177,"Panaewa (Residential) Hawaiian Home Land, HI",1354,16894,42,9819,0,-,0,-,88,24184,531,19550,1,N,11896,12974
+5179,"Papakolea Hawaiian Home Land, HI",1654,24462,44,72186,0,-,0,-,73,55593,791,23442,0,-,77468,15492
+5181,"Pauahi Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5186,"Paukukalo Hawaiian Home Land, HI",871,24527,20,35740,3,N,0,-,40,25875,511,21012,2,N,35153,17172
+5188,"Pearl City Hawaiian Home Land, HI",53,22828,21,36686,13,N,0,-,5,N,0,-,2,N,39200,24006
+5193,"Piihonua Hawaiian Home Land, HI",50,20342,3,N,0,-,0,-,5,34080,9,35556,0,-,N,-
+5196,"Ponohawaii Hawaiian Home Land, HI",13,44600,0,-,0,-,0,-,4,N,6,67117,0,-,-,-
+5198,"Princess Kahanu Estates Hawaiian Home Land, HI",1575,25487,53,43053,0,-,17,N,78,36256,843,24746,0,-,48380,13872
+5199,"Pulehunui Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5201,"Puukapu Hawaiian Home Land, HI",827,24683,49,27206,4,N,2,N,18,39250,383,28070,2,N,31340,9053
+5213,"South Maui Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5216,"Ualapue Hawaiian Home Land, HI",13,31508,7,N,0,-,0,-,0,-,0,-,0,-,N,-
+5222,"Upolu Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5223,"Waiahole Hawaiian Home Land, HI",21,16990,2,N,0,-,0,-,0,-,0,-,0,-,N,N
+5236,"Waiakea Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5238,"Waianae Hawaiian Home Land, HI",2444,19607,61,26420,5,N,0,-,61,33664,1528,18585,5,N,25270,15811
+5239,"Waianae Kai Hawaiian Home Land, HI",725,17844,24,40692,2,N,0,-,16,24519,307,19219,2,N,41564,3627
+5241,"Waiehu Hawaiian Home Land, HI",1812,23433,97,42185,2,N,3,N,162,32157,754,21956,30,14467,46017,15300
+5248,"Waiku-Hana Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5251,"Wailau Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5256,"Wailua Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5271,"Waimanalo Hawaiian Home Land, HI",3073,23911,82,43138,16,26650,8,N,166,40909,1225,23553,18,87294,46532,16930
+5276,"Waimanu Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5281,"Waimea Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5283,"Waiohinu Hawaiian Home Land, HI",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+5286,"Waiohuli (Residential) Hawaiian Home Land, HI",1379,26023,99,40248,19,22242,16,N,78,38168,742,25188,3,N,39598,16414
+5540,"Caddo-Wichita-Delaware OTSA, OK",15229,23292,12353,25797,167,12104,1478,14290,26,22350,0,-,540,6573,27286,10796
+5550,"Cherokee OTSA, OK",515412,23217,328127,26798,31383,16267,83735,17802,5144,25065,720,23232,14143,13426,27526,12837
+5560,"Cheyenne-Arapaho OTSA, OK",185590,27509,154194,29507,4202,16504,6088,22625,2588,21346,74,44308,6824,17545,30635,15580
+5580,"Chickasaw OTSA, OK",311009,24740,245810,26742,8127,16512,21448,19267,1887,20558,95,10044,6971,15219,27400,13903
+5590,"Choctaw OTSA, OK",231579,21432,165460,23604,8317,16031,28625,16884,1086,22579,423,12735,3813,14257,23944,11973
+5600,"Citizen Potawatomi Nation-Absentee Shawnee OTSA, OK",122875,27020,98470,29258,6506,19260,9058,18715,1007,18161,76,32993,914,21484,29643,16763
+5620,"Creek OTSA, OK",786729,28949,572525,32393,54454,18606,57235,20834,19973,26974,484,21003,18650,14415,33723,15511
+5640,"Eastern Shawnee OTSA, OK",869,24141,560,28079,15,N,165,19334,3,N,0,-,5,N,28493,7962
+5670,"Iowa OTSA, OK",6321,24988,5624,25669,138,19266,319,19586,3,N,0,-,13,N,26101,10067
+5690,"Kaw OTSA, OK",5907,25060,5025,26432,21,12795,393,18374,30,21667,0,-,42,17060,26382,19207
+5700,"Kickapoo OTSA, OK",21086,20937,16873,22733,568,11455,2305,14883,139,16127,5,N,209,9444,23032,13149
+5720,"Kiowa-Comanche-Apache-Fort Sill Apache OTSA, OK",193659,24367,130654,26794,24929,20745,10130,17374,3392,32058,641,24396,8389,19749,27630,16807
+5730,"Miami OTSA, OK",223,30851,134,36875,0,-,48,25756,0,-,0,-,0,-,36875,-
+5740,"Modoc OTSA, OK",255,18536,141,21852,1,N,75,15661,0,-,2,N,0,-,22491,-
+5760,"Otoe-Missouria OTSA, OK",924,21341,434,28511,4,N,352,14233,4,N,0,-,7,N,26083,28447
+5770,"Ottawa OTSA, OK",5945,16699,3965,19039,197,3142,723,16164,52,15681,98,7794,79,12856,19679,7111
+5780,"Pawnee OTSA, OK",16212,22917,12845,23775,170,11467,2053,22335,64,13827,14,N,39,23385,24065,14082
+5795,"Peoria OTSA, OK",4906,24976,3411,26948,44,11911,685,22455,69,25152,32,9281,51,12782,27280,12664
+5800,"Ponca OTSA, OK",2037,19111,1090,25321,0,-,626,9564,0,-,0,-,75,23432,25723,14212
+5810,"Quapaw OTSA, OK",5210,18097,3653,19305,14,13729,677,16692,20,9925,6,N,213,13503,20107,9809
+5820,"Sac and Fox OTSA, OK",58129,23445,46315,25111,1804,13630,6517,17456,338,38100,43,N,219,25752,25499,15844
+5830,"Seminole OTSA, OK",23182,19700,15739,22593,1143,13577,4641,13519,49,N,2,N,149,18401,22787,14700
+5835,"Seneca-Cayuga OTSA, OK",4474,21839,3381,23575,5,N,682,16120,33,14106,1,N,50,11402,23818,10092
+5860,"Tonkawa OTSA, OK",3967,23863,3082,26960,22,2195,375,15082,32,10144,0,-,131,19166,27295,15008
+5890,"Wyandotte OTSA, OK",1707,18578,1185,19946,1,-,357,16173,22,13136,2,N,10,14230,20145,11426
+5915,"Creek/Seminole joint-use OTSA, OK",2064,18529,1409,20608,71,19989,441,13252,4,-,0,-,11,28600,20749,7441
+5950,"Kaw/Ponca joint-use OTSA, OK",26437,24371,20406,27284,835,15943,2130,15743,184,15283,0,-,754,14930,28063,13494
+5955,"Kiowa-Comanche-Apache-Ft Sill Apache/Caddo-Wichita-Delaware joint-use OTSA, OK",11770,19330,5118,24418,435,21824,4618,15660,121,5848,3,-,412,17222,25393,9989
+5970,"Miami/Peoria joint-use OTSA, OK",4367,16781,2837,17828,48,6823,618,13965,30,11073,58,32217,153,9901,18253,11824
+6015,"Akhiok ANVSA, AK",53,9766,4,N,0,-,49,8851,0,-,0,-,0,-,N,-
+6020,"Akiachak ANVSA, AK",609,11095,14,42021,2,N,578,10566,0,-,0,-,0,-,44658,N
+6025,"Akiak ANVSA, AK",397,10510,4,N,0,-,383,9431,0,-,0,-,0,-,N,N
+6030,"Akutan ANVSA, AK",782,27125,121,27992,130,28227,127,19693,265,29155,14,23479,117,28002,31093,26227
+6035,"Alakanuk ANVSA, AK",735,9521,33,9409,0,-,682,9641,3,28333,0,-,0,-,9409,-
+6040,"Alatna ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+6045,"Aleknagik ANVSA, AK",190,23108,12,83258,2,N,173,18372,0,-,0,-,0,-,83258,-
+6065,"Algaaciq ANVSA, AK",443,13527,16,42613,0,-,401,12511,0,-,0,-,0,-,44167,N
+6070,"Allakaket ANVSA, AK",186,15277,28,27693,0,-,152,13080,4,N,0,-,0,-,26084,N
+6075,"Ambler ANVSA, AK",299,15937,10,41010,0,-,285,14981,0,-,1,N,0,-,41010,-
+6080,"Anaktuvuk Pass ANVSA, AK",290,16682,34,10535,3,N,243,16934,0,-,0,-,0,-,10535,2260
+6095,"Andreafsky ANVSA, AK",95,21068,0,-,0,-,95,21068,0,-,0,-,0,-,-,-
+6100,"Angoon ANVSA, AK",535,34320,121,48492,50,76564,262,15797,29,109390,2,N,20,N,59171,21437
+6105,"Aniak ANVSA, AK",517,25438,70,62859,0,-,395,19783,0,-,0,-,0,-,62859,N
+6125,"Anvik ANVSA, AK",91,19271,0,-,0,-,86,18979,0,-,0,-,0,-,-,-
+6140,"Arctic Village ANVSA, AK",167,17255,13,65408,0,-,131,14908,0,-,0,-,0,-,65408,-
+6150,"Atka ANVSA, AK",51,26500,8,N,0,-,32,30306,7,N,0,-,0,-,N,-
+6160,"Atmautluak ANVSA, AK",242,9742,0,-,0,-,241,9734,0,-,0,-,0,-,-,-
+6165,"Atqasuk ANVSA, AK",172,20597,3,68133,0,-,158,18875,0,-,0,-,0,-,68133,-
+6175,"Barrow ANVSA, AK",4383,31781,570,65871,15,N,2720,22275,490,44747,170,25438,71,86704,65985,33640
+6190,"Beaver ANVSA, AK",54,16602,0,-,0,-,54,16602,0,-,0,-,0,-,-,-
+6195,"Belkofski ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+6205,"Bethel ANVSA, AK",6408,30256,1607,55187,116,39938,3940,19452,141,44854,2,N,89,N,58518,19501
+6225,"Bill Moore's ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+6235,"Birch Creek ANVSA, AK",1,N,0,-,0,-,1,N,0,-,0,-,0,-,-,-
+6240,"Brevig Mission ANVSA, AK",421,8425,3,N,0,-,408,8610,0,-,0,-,0,-,N,-
+6250,"Buckland ANVSA, AK",627,13288,11,69727,0,-,610,11694,1,N,0,-,4,N,69727,N
+6255,"Cantwell ANVSA, AK",201,34580,151,37954,2,N,28,20121,0,-,0,-,0,-,37954,-
+6257,"Canyon Village ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+6265,"Chalkyitsik ANVSA, AK",119,19081,20,40590,0,-,97,14422,0,-,0,-,0,-,40590,-
+6275,"Chefornak ANVSA, AK",459,10535,10,9690,0,-,447,10564,0,-,0,-,0,-,9690,-
+6280,"Chenega ANVSA, AK",41,20724,11,27691,0,-,30,18170,0,-,0,-,0,-,27691,-
+6285,"Chevak ANVSA, AK",1271,13690,116,49972,28,N,1081,9476,31,26184,0,-,2,N,54741,17144
+6290,"Chickaloon ANVSA, AK",26864,30596,22237,33119,459,21718,1339,19425,341,21735,76,15649,182,28228,33563,20740
+6295,"Chignik ANVSA, AK",35,25183,8,31175,0,-,23,27152,0,-,0,-,0,-,31175,-
+6300,"Chignik Lagoon ANVSA, AK",63,40833,11,52991,0,-,42,33176,0,-,2,-,0,-,52991,-
+6305,"Chignik Lake ANVSA, AK",57,14637,2,N,0,-,55,12969,0,-,0,-,0,-,N,-
+6310,"Chilkat ANVSA, AK",64,23566,7,28329,0,-,51,22775,0,-,0,-,0,-,28329,-
+6315,"Chilkoot ANVSA, AK",400,27054,283,29404,1,-,59,29620,17,26165,0,-,0,-,30232,7100
+6325,"Chistochina ANVSA, AK",57,21546,9,29544,0,-,48,20048,0,-,0,-,0,-,N,N
+6330,"Chitina ANVSA, AK",72,28838,30,30530,0,-,42,27629,0,-,0,-,0,-,30530,-
+6335,"Chuathbaluk ANVSA, AK",109,9880,8,27450,0,-,94,7521,0,-,0,-,0,-,27450,-
+6340,"Chulloonawick ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+6350,"Circle ANVSA, AK",108,9841,37,15468,0,-,62,7911,0,-,0,-,0,-,24272,6326
+6360,"Clarks Point ANVSA, AK",53,8991,0,-,0,-,40,8660,0,-,0,-,0,-,-,-
+6365,"Copper Center ANVSA, AK",552,18559,343,21515,0,-,165,11118,4,N,0,-,5,N,23646,9541
+6380,"Council ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+6385,"Craig ANVSA, AK",1660,33775,1135,39688,4,21050,304,23264,33,14382,0,-,4,N,40129,30859
+6390,"Crooked Creek ANVSA, AK",90,15116,5,41260,1,N,76,11232,0,-,0,-,0,-,41260,-
+6400,"Deering ANVSA, AK",152,16069,2,N,0,-,140,14630,10,28660,0,-,0,-,N,-
+6405,"Dillingham ANVSA, AK",2234,34312,619,50551,17,31847,1267,27268,32,19500,0,-,37,78851,54726,26043
+6415,"Dot Lake ANVSA, AK",52,18237,7,27243,0,-,32,16350,0,-,0,-,0,-,27243,-
+6420,"Douglas ANVSA, AK",6071,43690,4616,50331,42,36929,623,23577,198,26049,26,12342,44,31139,51419,23595
+6430,"Eagle ANVSA, AK",22,33436,11,39964,0,-,9,30256,0,-,0,-,0,-,39964,-
+6440,"Eek ANVSA, AK",497,10668,0,-,0,-,477,11070,0,-,0,-,2,-,-,2500
+6445,"Egegik ANVSA, AK",69,40920,31,51732,8,N,17,32788,13,15962,0,-,0,-,47857,N
+6450,"Eklutna ANVSA, AK",31,9052,1,N,0,-,28,7857,0,-,0,-,0,-,N,-
+6455,"Ekuk ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+6460,"Ekwok ANVSA, AK",88,11545,0,-,0,-,88,11545,0,-,0,-,0,-,-,-
+6470,"Elim ANVSA, AK",296,13460,5,38680,0,-,288,13149,0,-,0,-,0,-,38680,N
+6480,"Emmonak ANVSA, AK",763,13271,10,65730,2,N,746,12451,3,54633,0,-,0,-,65730,-
+6490,"Evansville ANVSA, AK",83,39307,52,31388,0,-,31,52590,0,-,0,-,0,-,31388,-
+6495,"Eyak ANVSA, AK",254,43678,214,47791,0,-,12,N,4,N,0,-,2,N,47960,37778
+6500,"False Pass ANVSA, AK",68,40635,29,51228,0,-,34,33047,2,N,0,-,3,N,51228,N
+6515,"Fort Yukon ANVSA, AK",560,19512,58,39910,0,-,487,17103,7,17057,0,-,0,-,39910,-
+6520,"Gakona ANVSA, AK",97,23287,42,45455,0,-,48,7285,0,-,0,-,0,-,45455,-
+6525,"Galena ANVSA, AK",473,32579,164,42795,0,-,279,27047,8,44163,0,-,0,-,44126,N
+6530,"Gambell ANVSA, AK",693,16588,42,117914,0,-,621,9631,18,N,0,-,0,-,120615,N
+6535,"Georgetown ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+6540,"Golovin ANVSA, AK",123,16165,6,23283,0,-,113,15512,0,-,0,-,1,N,23283,N
+6545,"Goodnews Bay ANVSA, AK",210,11714,5,N,0,-,200,11571,0,-,0,-,0,-,N,-
+6550,"Grayling ANVSA, AK",165,11699,4,8650,0,-,160,11849,0,-,0,-,0,-,N,5820
+6560,"Gulkana ANVSA, AK",31,31871,25,36408,0,-,6,N,0,-,0,-,0,-,36408,-
+6570,"Hamilton ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+6575,"Healy Lake ANVSA, AK",4,N,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+6585,"Holy Cross ANVSA, AK",202,14149,5,65360,0,-,194,13008,3,N,0,-,0,-,65360,-
+6590,"Hoonah ANVSA, AK",828,28857,243,45727,12,10175,442,22595,29,20093,0,-,0,-,45044,41483
+6595,"Hooper Bay ANVSA, AK",1153,8832,43,50040,3,N,1082,7050,0,-,0,-,0,-,50040,N
+6605,"Hughes ANVSA, AK",77,15397,0,-,0,-,69,14378,8,N,0,-,0,-,-,-
+6610,"Huslia ANVSA, AK",397,13407,32,12284,0,-,356,13677,0,-,0,-,0,-,12284,-
+6615,"Hydaburg ANVSA, AK",306,16408,24,34117,0,-,257,15996,0,-,21,2638,0,-,34117,-
+6620,"Igiugig ANVSA, AK",46,23989,5,45420,0,-,41,21376,0,-,0,-,0,-,45420,N
+6625,"Iliamna ANVSA, AK",65,31197,11,66545,0,-,49,25153,0,-,0,-,0,-,66545,-
+6630,"Inalik ANVSA, AK",76,11671,0,-,0,-,76,11671,0,-,0,-,0,-,-,-
+6650,"Ivanof Bay ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+6670,"Kake ANVSA, AK",614,19204,135,26696,4,N,401,17889,12,N,0,-,0,-,26696,-
+6680,"Kaktovik ANVSA, AK",181,21945,5,69140,5,N,158,21962,0,-,0,-,0,-,69140,-
+6685,"Kalskag ANVSA, AK",255,12116,25,13348,0,-,223,12250,0,-,0,-,0,-,16065,N
+6690,"Kaltag ANVSA, AK",165,19696,14,25757,0,-,147,19308,0,-,0,-,0,-,25757,-
+6700,"Karluk ANVSA, AK",40,6400,0,-,0,-,40,6400,0,-,0,-,0,-,-,-
+6705,"Kasaan ANVSA, AK",89,22958,48,21354,0,-,35,25897,0,-,0,-,0,-,21354,-
+6710,"Kasigluk ANVSA, AK",655,8469,0,-,0,-,653,8467,0,-,0,-,0,-,-,-
+6720,"Kenaitze ANVSA, AK",34918,34919,29577,37352,165,29338,2116,20814,389,38303,124,6565,308,27026,37834,19046
+6725,"Ketchikan ANVSA, AK",13197,34043,9023,40355,70,25579,1663,19909,1101,22191,5,N,92,25727,40614,30749
+6730,"Kiana ANVSA, AK",329,17247,10,57890,0,-,296,16244,3,N,0,-,0,-,57890,-
+6735,"King Cove ANVSA, AK",1003,31439,129,42110,22,38536,465,25092,321,34865,4,N,30,30933,42200,30934
+6740,"King Salmon ANVSA, AK",162,34885,72,50031,0,-,68,19644,4,N,0,-,0,-,53457,N
+6750,"Kipnuk ANVSA, AK",659,9968,2,N,0,-,657,9942,0,-,0,-,0,-,N,-
+6755,"Kivalina ANVSA, AK",678,16907,39,99338,0,-,635,11945,0,-,0,-,0,-,104646,N
+6765,"Klawock ANVSA, AK",670,20981,245,25069,2,N,361,19675,0,-,13,N,0,-,26087,22846
+6785,"Knik ANVSA, AK",74179,30303,61809,32468,679,31268,3854,22589,972,17469,120,15497,399,17756,32939,20396
+6790,"Kobuk ANVSA, AK",152,13451,8,54788,0,-,144,11154,0,-,0,-,0,-,54788,N
+6795,"Kodiak ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+6800,"Kokhanok ANVSA, AK",149,13385,12,32200,0,-,137,11737,0,-,0,-,0,-,32200,N
+6810,"Kongiganak ANVSA, AK",437,8833,1,N,0,-,426,8239,0,-,0,-,0,-,N,5358
+6815,"Kotlik ANVSA, AK",726,10794,14,67736,2,N,703,9728,0,-,0,-,0,-,67736,-
+6820,"Kotzebue ANVSA, AK",3276,31368,709,59691,41,29605,2211,21926,34,64932,0,-,61,41821,61049,32707
+6825,"Koyuk ANVSA, AK",248,11061,5,N,0,-,224,10896,1,N,0,-,0,-,N,-
+6830,"Koyukuk ANVSA, AK",54,17041,0,-,0,-,52,16413,0,-,0,-,0,-,-,-
+6835,"Kwethluk ANVSA, AK",705,12518,0,-,0,-,693,12582,2,N,0,-,0,-,-,-
+6840,"Kwigillingok ANVSA, AK",349,10590,2,N,0,-,347,10144,0,-,0,-,0,-,N,-
+6845,"Kwinhagak ANVSA, AK",763,17486,90,59313,0,-,667,11839,2,N,0,-,0,-,59313,-
+6850,"Lake Minchumina ANVSA, AK",20,24005,20,24005,0,-,0,-,0,-,0,-,0,-,24005,-
+6855,"Larsen Bay ANVSA, AK",42,33814,18,42056,1,N,19,29005,0,-,0,-,0,-,42056,N
+6860,"Lesnoi ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+6865,"Levelock ANVSA, AK",95,15068,2,N,0,-,93,14702,0,-,0,-,0,-,N,N
+6875,"Lime Village ANVSA, AK",6,6517,0,-,0,-,6,6517,0,-,0,-,0,-,-,-
+6890,"Lower Kalskag ANVSA, AK",327,10091,0,-,0,-,304,9904,17,10659,0,-,0,-,-,-
+6895,"McGrath ANVSA, AK",319,28312,111,47520,4,N,117,25471,9,N,0,-,2,N,47520,N
+6900,"Manley Hot Springs ANVSA, AK",77,37049,60,33185,0,-,5,106660,0,-,0,-,0,-,39041,-
+6905,"Manokotak ANVSA, AK",789,23031,154,49863,0,-,594,14606,34,N,0,-,0,-,49863,-
+6910,"Marshall ANVSA, AK",337,11548,0,-,0,-,325,11309,0,-,0,-,0,-,-,-
+6915,"Mary's Igloo ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+6935,"Mekoryuk ANVSA, AK",217,16965,3,N,0,-,209,16975,0,-,0,-,0,-,N,-
+6945,"Mentasta Lake ANVSA, AK",198,13487,0,-,0,-,190,14055,0,-,0,-,0,-,-,-
+6965,"Minto ANVSA, AK",223,17886,5,32580,0,-,216,17370,0,-,0,-,0,-,32580,-
+6975,"Mountain Village ANVSA, AK",820,16892,64,88825,28,N,695,9873,0,-,0,-,0,-,88825,N
+6990,"Naknek ANVSA, AK",509,44638,227,60885,0,-,202,33506,9,N,3,N,7,N,62173,17087
+6995,"Nanwalek ANVSA, AK",231,13674,16,50700,0,-,172,11135,1,N,5,-,0,-,62146,N
+7005,"Napaimute ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+7010,"Napakiak ANVSA, AK",371,10608,6,41733,0,-,356,10341,1,N,0,-,0,-,41733,-
+7020,"Napaskiak ANVSA, AK",377,11117,14,18564,0,-,360,10920,0,-,0,-,0,-,18564,-
+7025,"Nelson Lagoon ANVSA, AK",54,37602,12,88200,0,-,42,23145,0,-,0,-,0,-,N,N
+7030,"Nenana ANVSA, AK",368,24588,176,31109,0,-,141,20211,0,-,0,-,0,-,30762,N
+7035,"Newhalen ANVSA, AK",114,16709,11,37136,0,-,94,15326,0,-,0,-,0,-,40540,N
+7040,"New Koliganek ANVSA, AK",170,18507,16,53456,0,-,141,16121,0,-,0,-,0,-,53456,-
+7050,"New Stuyahok ANVSA, AK",566,10515,2,N,0,-,551,10392,0,-,0,-,0,-,N,-
+7055,"Newtok ANVSA, AK",372,10042,3,N,0,-,367,9036,0,-,2,N,0,-,N,-
+7065,"Nightmute ANVSA, AK",212,8693,0,-,0,-,212,8693,0,-,0,-,0,-,-,-
+7070,"Nikolai ANVSA, AK",123,15533,11,33936,0,-,102,13883,0,-,0,-,3,N,33936,N
+7075,"Nikolski ANVSA, AK",25,28056,6,17300,0,-,12,21667,2,N,0,-,0,-,17300,-
+7080,"Ninilchik ANVSA, AK",14948,32164,13212,33598,51,27796,644,22649,162,23456,36,18908,122,25196,33999,19976
+7085,"Noatak ANVSA, AK",424,15146,4,N,2,N,411,14981,0,-,0,-,0,-,N,-
+7095,"Nome ANVSA, AK",3870,31145,1255,46878,72,22517,1904,21414,41,50863,29,24910,10,17270,50319,19775
+7100,"Nondalton ANVSA, AK",110,20384,15,51300,0,-,81,13844,0,-,1,N,2,N,51300,-
+7110,"Noorvik ANVSA, AK",579,16784,28,79718,0,-,543,13545,0,-,0,-,0,-,79718,-
+7115,"Northway ANVSA, AK",251,16294,40,28155,0,-,204,13912,0,-,0,-,0,-,28155,-
+7125,"Nuiqsut ANVSA, AK",395,22481,31,24548,0,-,348,22684,0,-,5,N,0,-,24548,-
+7130,"Nulato ANVSA, AK",276,14968,8,47763,0,-,256,14332,0,-,0,-,0,-,47763,-
+7133,"Nunam Iqua ANVSA, AK",134,9711,7,25443,0,-,125,8814,2,N,0,-,0,-,25443,-
+7135,"Nunapitchuk ANVSA, AK",726,9267,0,-,0,-,705,9313,0,-,0,-,0,-,-,-
+7145,"Ohogamiut ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+7150,"Old Harbor ANVSA, AK",290,21409,33,68312,3,-,194,13893,0,-,18,N,0,-,72400,N
+7175,"Oscarville ANVSA, AK",36,9078,9,N,0,-,27,7678,0,-,0,-,0,-,N,-
+7180,"Ouzinkie ANVSA, AK",178,32432,28,61829,0,-,121,27211,0,-,9,N,0,-,61829,-
+7185,"Paimiut ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+7205,"Pedro Bay ANVSA, AK",18,22478,3,N,0,-,9,25411,0,-,0,-,0,-,N,-
+7215,"Perryville ANVSA, AK",98,11944,1,N,0,-,97,11308,0,-,0,-,0,-,N,-
+7220,"Petersburg ANVSA, AK",2638,37891,1886,44695,19,15995,219,20647,210,25796,36,13250,15,33160,45399,24871
+7225,"Pilot Point ANVSA, AK",58,27109,15,46693,0,-,37,20689,0,-,0,-,0,-,46693,-
+7230,"Pilot Station ANVSA, AK",636,9409,3,N,0,-,624,8798,1,N,0,-,0,-,N,-
+7235,"Pitkas Point ANVSA, AK",125,13990,0,-,0,-,125,13990,0,-,0,-,0,-,-,-
+7245,"Platinum ANVSA, AK",15,21813,0,-,0,-,15,21813,0,-,0,-,0,-,-,-
+7250,"Point Hope ANVSA, AK",629,18244,27,31696,1,N,531,18699,9,N,0,-,0,-,34071,12626
+7255,"Point Lay ANVSA, AK",273,15801,16,25006,0,-,209,14620,0,-,4,47825,0,-,N,N
+7260,"Portage Creek ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+7263,"Port Alsworth ANVSA, AK",157,24030,108,30454,1,N,16,11688,0,-,0,-,0,-,30454,-
+7265,"Port Graham ANVSA, AK",189,18937,22,27423,1,N,151,15181,0,-,0,-,0,-,27423,N
+7270,"Port Heiden ANVSA, AK",60,38918,16,32638,0,-,40,40688,0,-,0,-,0,-,32638,-
+7275,"Port Lions ANVSA, AK",214,26372,57,29149,2,N,141,23449,0,-,0,-,0,-,27044,N
+7300,"Rampart ANVSA, AK",36,23978,0,-,0,-,34,22565,0,-,0,-,0,-,-,N
+7305,"Red Devil ANVSA, AK",21,26667,8,42875,0,-,9,7533,0,-,0,-,0,-,42875,-
+7310,"Ruby ANVSA, AK",188,12741,13,18715,0,-,167,12198,0,-,0,-,0,-,18715,-
+7315,"Russian Mission ANVSA, AK",348,8442,11,55164,0,-,146,6097,0,-,0,-,0,-,55164,-
+7340,"St. George ANVSA, AK",85,24201,8,43500,0,-,75,19885,0,-,0,-,2,N,43500,N
+7375,"St. Michael ANVSA, AK",441,10945,5,64860,0,-,428,10224,0,-,0,-,0,-,64860,-
+7390,"St. Paul ANVSA, AK",480,35855,71,86782,0,-,359,25779,0,-,18,44550,27,36622,89179,N
+7400,"Salamatof ANVSA, AK",1055,19055,741,23855,43,9128,178,6442,12,10725,0,-,0,-,23924,19557
+7410,"Sand Point ANVSA, AK",1332,31510,217,58126,22,18382,594,28913,270,26412,28,20261,38,28703,58003,21454
+7415,"Savoonga ANVSA, AK",932,9659,24,40958,0,-,890,8860,0,-,0,-,0,-,40958,-
+7420,"Saxman ANVSA, AK",377,22722,45,34053,0,-,279,21929,2,N,0,-,0,-,34942,12945
+7425,"Scammon Bay ANVSA, AK",537,8627,4,N,0,-,529,8702,0,-,0,-,0,-,N,-
+7430,"Selawik ANVSA, AK",813,9479,11,62109,0,-,787,8630,0,-,0,-,0,-,62109,-
+7435,"Seldovia ANVSA, AK",443,33614,337,34391,0,-,48,24160,12,22650,2,N,0,-,34297,N
+7440,"Shageluk ANVSA, AK",63,21978,9,43656,0,-,51,18357,0,-,0,-,1,N,43656,N
+7450,"Shaktoolik ANVSA, AK",282,15500,3,48033,0,-,276,14884,0,-,0,-,0,-,48033,-
+7465,"Shishmaref ANVSA, AK",522,11849,34,22718,3,N,475,10826,1,N,0,-,0,-,22718,-
+7470,"Shungnak ANVSA, AK",280,11155,37,8235,0,-,222,11819,3,N,0,-,0,-,8235,-
+7475,"Sitka ANVSA, AK",4606,35237,2728,42724,31,22894,806,28372,463,24916,0,-,52,27038,43239,22507
+7485,"Skagway ANVSA, AK",1038,39376,859,41781,9,54244,69,22681,42,34426,0,-,7,50014,41887,31692
+7495,"Sleetmute ANVSA, AK",85,13656,14,16121,0,-,70,12649,0,-,0,-,0,-,16121,N
+7500,"Solomon ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+7505,"South Naknek ANVSA, AK",47,34094,10,40630,0,-,37,32327,0,-,0,-,0,-,40630,-
+7510,"Stebbins ANVSA, AK",500,10650,11,52436,0,-,471,9344,0,-,0,-,0,-,52436,-
+7520,"Stevens Village ANVSA, AK",10,6880,0,-,0,-,10,6880,0,-,0,-,0,-,-,-
+7525,"Stony River ANVSA, AK",36,17631,0,-,0,-,36,17631,0,-,0,-,0,-,-,-
+7530,"Takotna ANVSA, AK",40,20713,21,16276,0,-,11,13573,0,-,0,-,0,-,29136,N
+7535,"Tanacross ANVSA, AK",133,14349,4,N,0,-,129,14118,0,-,0,-,0,-,N,-
+7540,"Tanana ANVSA, AK",243,22598,29,37207,1,N,203,20379,0,-,0,-,0,-,37438,N
+7555,"Tatitlek ANVSA, AK",121,25231,2,N,0,-,105,21849,0,-,0,-,0,-,N,-
+7560,"Tazlina ANVSA, AK",300,23767,150,32224,0,-,136,13799,0,-,0,-,0,-,32224,-
+7565,"Telida ANVSA, AK",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+7570,"Teller ANVSA, AK",184,12790,0,-,0,-,170,12637,0,-,0,-,0,-,-,-
+7580,"Tetlin ANVSA, AK",173,13080,37,24181,0,-,134,9428,0,-,0,-,0,-,24181,-
+7605,"Togiak ANVSA, AK",749,14268,40,28533,3,N,664,13302,9,N,0,-,0,-,28533,-
+7625,"Toksook Bay ANVSA, AK",506,15104,16,75175,0,-,467,13105,0,-,0,-,2,N,75175,N
+7630,"Tuluksak ANVSA, AK",434,15983,28,137604,0,-,400,7385,2,N,0,-,0,-,137604,-
+7640,"Tuntutuliak ANVSA, AK",477,10466,3,N,0,-,464,10214,0,-,0,-,0,-,N,-
+7645,"Tununak ANVSA, AK",301,9493,4,46325,0,-,284,9396,0,-,0,-,0,-,46325,-
+7650,"Twin Hills ANVSA, AK",83,14330,2,N,0,-,80,13436,0,-,0,-,0,-,N,-
+7655,"Tyonek ANVSA, AK",328,17158,12,51575,0,-,252,15637,8,20388,3,N,0,-,51775,9802
+7665,"Ugashik ANVSA, AK",11,20536,2,N,0,-,9,21667,0,-,0,-,0,-,N,-
+7690,"Unalakleet ANVSA, AK",695,28791,82,81604,0,-,480,21565,80,19775,0,-,0,-,81306,N
+7695,"Unalaska ANVSA, AK",4809,36514,1453,53847,269,34379,184,39437,2154,29049,102,32158,262,35697,59401,25543
+7725,"Venetie ANVSA, AK",139,13577,0,-,0,-,138,13180,0,-,0,-,0,-,-,-
+7735,"Wainwright ANVSA, AK",513,24788,32,53716,0,-,439,23029,0,-,0,-,0,-,53716,N
+7740,"Wales ANVSA, AK",159,12675,1,N,0,-,148,12136,0,-,0,-,0,-,N,-
+7745,"White Mountain ANVSA, AK",173,18612,16,48900,0,-,155,15161,0,-,0,-,0,-,48900,-
+7755,"Wrangell ANVSA, AK",1301,28406,837,32137,4,N,243,22976,59,28803,0,-,1,N,32813,15821
+7765,"Yakutat ANVSA, AK",653,30730,300,37137,6,N,198,22752,22,44105,9,22233,7,34257,37357,26053
+8100,"Cayuga Nation TDSA, NY",2924,30681,2833,31121,27,13030,8,30300,10,32120,0,-,6,N,31527,8750
+8300,"Ione Band of Miwok TDSA, CA",5,N,5,N,0,-,0,-,0,-,0,-,0,-,N,-
+8450,"Mechoopda TDSA, CA",3327,22722,2454,24753,112,16085,81,14430,205,23420,19,N,257,17909,27616,15007
+8750,"Samish TDSA, WA",37786,40380,35095,41371,204,40882,314,27441,712,37847,50,27910,483,17509,42139,18813
+9100,"Golden Hill Paugussett (state) Reservation, CT",5,N,2,N,0,-,3,N,0,-,0,-,0,-,N,-
+9150,"Hassanamisco (state) Reservation, MA",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+9230,"Mattaponi (state) Reservation, VA",68,22285,11,32209,0,-,44,23091,0,-,0,-,0,-,32209,-
+9240,"MOWA Choctaw (state) Reservation, AL",93,7973,12,7658,0,-,79,7922,0,-,0,-,0,-,7658,-
+9260,"Pamunkey (state) Reservation, VA",103,25539,19,14616,0,-,65,33825,5,18380,0,-,0,-,14616,-
+9280,"Paucatuck Eastern Pequot (state) Reservation, CT",23,26652,8,39500,0,-,12,23367,0,-,0,-,0,-,39500,-
+9300,"Poospatuck (state) Reservation, NY",748,17203,117,17943,157,16923,399,18117,0,-,0,-,0,-,24395,4529
+9350,"Schaghticoke (state) Reservation, CT",0,-,0,-,0,-,0,-,0,-,0,-,0,-,-,-
+9370,"Shinnecock (state) Reservation, NY",59,24890,0,-,0,-,44,22650,11,41164,0,-,0,-,-,-
+9400,"Tama (state) Reservation, GA",16,26131,0,-,0,-,16,26131,0,-,0,-,0,-,-,-
+9510,"Adais Caddo SDTSA, LA",2344,19485,1579,21507,448,14523,107,19550,20,N,0,-,73,13027,21403,20897
+9515,"Apache Choctaw SDTSA, LA",6623,18799,3455,22235,868,10657,1471,18085,78,19014,1,N,122,10380,22436,16725
+9525,"Beaver Creek SDTSA, SC",960,16435,354,21944,571,13013,32,16319,0,-,0,-,0,-,22127,N
+9550,"Cher-O-Creek SDTSA, AL",86398,24241,56986,28777,25888,15094,383,21532,848,36367,22,N,452,14642,29285,14443
+9560,"Cherokee Tribe of Northeast Alabama SDTSA, AL",14653,20742,13608,21250,188,6122,82,24341,82,9830,1,-,447,17911,22808,11315
+9580,"Chickahominy SDTSA, VA",3649,27924,1514,30354,1538,26715,410,29987,57,13321,0,-,14,18857,30440,28676
+9630,"Clifton Choctaw SDTSA, LA",397,22424,260,26237,5,N,96,18994,5,N,0,-,5,N,25598,29078
+9635,"Coharie SDTSA, NC",62855,20874,38204,24568,16977,15993,1166,19067,605,27115,162,8111,3598,11916,26399,10367
+9675,"Eastern Chickahominy SDTSA, VA",260,31198,186,31864,16,41350,34,36968,1,N,0,-,0,-,31858,N
+9680,"Echota Cherokee SDTSA, AL",55562,27930,45914,27238,4477,36090,1854,32336,559,31303,90,19012,232,28801,27429,18054
+9720,"Four Winds Cherokee SDTSA, LA",31657,22498,20852,24260,8158,18996,392,18660,624,22387,203,28262,317,29486,24726,18502
+9745,"Haliwa-Saponi SDTSA, NC",8959,17617,1193,20295,4304,15668,2876,20003,134,20833,9,N,28,13654,21084,5099
+9800,"Lenape Indian Tribe of Delaware SDTSA, DE",540,22181,290,21664,62,24311,146,23962,5,N,0,-,4,16375,21177,33089
+9815,"Lumbee SDTSA, NC",505183,21150,215146,26046,176672,18716,64476,15961,9038,27553,861,21716,16395,13020,27094,15728
+9820,"MaChis Lower Creek SDTSA, AL",22108,24359,19539,25318,1279,19707,445,18018,86,14481,0,-,76,7433,25031,28969
+9825,"Meherrin SDTSA, NC",7776,17406,2115,24939,5131,14262,142,28125,54,18772,3,N,132,7795,25220,6104
+9830,"Nanticoke Indian Tribe SDTSA, DE",8235,33530,6672,35309,823,27859,258,29729,122,43296,0,-,96,12291,35776,27621
+9835,"Nanticoke Lenni Lenape SDTSA, NJ",6177,21346,2068,23063,3024,21024,301,27194,15,25847,0,-,368,17946,26177,15243
+9838,"Occaneechi-Saponi SDTSA, NC",9514,26930,6370,30407,2334,21975,102,13305,38,20905,9,7511,379,10645,31056,13346
+9844,"Pee Dee SDTSA, SC",3210,11928,1039,16341,1772,9561,90,22184,12,N,0,-,209,4399,20039,3937
+9850,"Ramapough SDTSA, NJ",1138,33224,571,32696,159,30867,247,43767,28,63854,0,-,72,11992,34909,24115
+9865,"Sappony SDTSA, NC",2608,22784,1821,24991,630,18960,60,17963,8,24400,0,-,26,N,24961,9350
+9875,"Santee SDTSA, SC",580,19307,175,30288,292,14191,94,17496,0,-,0,-,6,N,30288,N
+9880,"Star Muskogee Creek SDTSA, AL",6015,18215,3518,22380,2284,12177,24,12379,24,N,2,N,0,-,22499,18337
+9950,"United Cherokee Ani-Yun-Wiya Nation SDTSA, AL",6516,25791,5253,28489,883,14894,35,19426,91,14413,2,N,97,17510,29314,16178
+9960,"United Houma Nation SDTSA, LA",204977,25101,150794,27984,35704,15727,7773,21283,2063,22129,29,N,3841,22351,28476,19684
+9963,"Upper South Carolina Pee Dee SDTSA, SC",1249,18585,622,26481,449,10888,100,12478,6,N,6,N,25,10676,26980,11911
+9967,"Waccamaw SDTSA, SC",52,21415,51,21618,0,-,1,N,0,-,0,-,0,-,21618,-
+9970,"Waccamaw Siouan SDTSA, NC",2233,21075,463,21858,347,19595,1313,21345,0,-,8,N,6,N,24989,16995
+9975,"Wassamasaw SDTSA, SC",2266,24073,1688,24912,371,23362,92,20400,19,25332,0,-,8,32413,24965,25330
